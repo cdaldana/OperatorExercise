@@ -1,0 +1,12 @@
+/Users/christianaldana/repos/OperatorExcercise/OperatorExcercise/bin/Debug/netcoreapp3.1/OperatorExcercise.deps.json
+/Users/christianaldana/repos/OperatorExcercise/OperatorExcercise/bin/Debug/netcoreapp3.1/OperatorExcercise.runtimeconfig.json
+/Users/christianaldana/repos/OperatorExcercise/OperatorExcercise/bin/Debug/netcoreapp3.1/OperatorExcercise.runtimeconfig.dev.json
+/Users/christianaldana/repos/OperatorExcercise/OperatorExcercise/bin/Debug/netcoreapp3.1/OperatorExcercise.dll
+/Users/christianaldana/repos/OperatorExcercise/OperatorExcercise/bin/Debug/netcoreapp3.1/OperatorExcercise.pdb
+/Users/christianaldana/repos/OperatorExcercise/OperatorExcercise/obj/Debug/netcoreapp3.1/OperatorExcercise.csprojAssemblyReference.cache
+/Users/christianaldana/repos/OperatorExcercise/OperatorExcercise/obj/Debug/netcoreapp3.1/OperatorExcercise.AssemblyInfoInputs.cache
+/Users/christianaldana/repos/OperatorExcercise/OperatorExcercise/obj/Debug/netcoreapp3.1/OperatorExcercise.AssemblyInfo.cs
+/Users/christianaldana/repos/OperatorExcercise/OperatorExcercise/obj/Debug/netcoreapp3.1/OperatorExcercise.csproj.CoreCompileInputs.cache
+/Users/christianaldana/repos/OperatorExcercise/OperatorExcercise/obj/Debug/netcoreapp3.1/OperatorExcercise.dll
+/Users/christianaldana/repos/OperatorExcercise/OperatorExcercise/obj/Debug/netcoreapp3.1/OperatorExcercise.pdb
+/Users/christianaldana/repos/OperatorExcercise/OperatorExcercise/obj/Debug/netcoreapp3.1/OperatorExcercise.genruntimeconfig.cache
